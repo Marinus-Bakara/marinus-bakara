@@ -17,6 +17,7 @@ I am a passionate student focused on securing digital landscapes and understandi
 -  **SOC Tools:** Wazuh and Splunk.
 - **Scripting:** Python, Bash.
 
-### 📊 GitHub Stats:(https://github-readme-stats.vercel.app/api?username=Marinus-Bakara&show_icons=true&theme=tokyonight)
+### 📊 GitHub Stats:
+![Marinus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marinus-Bakara&show_icons=true&theme=tokyonight)
 
 > "The quieter you become, the more you are able to hear." — *Kali Linux*
