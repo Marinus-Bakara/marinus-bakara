@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Marinus! 👋
 
-<!--
-**Marinus-Bakara/marinus-bakara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Aspiring Cybersecurity Engineer | IT Student
+I am a passionate student focused on securing digital landscapes and understanding the intricacies of Information Technology. I love deconstructing systems to understand how they work and how to make them more resilient.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm working on:
+- 🎓 Pursuing my HND in Computer Science with a focus on **Cybersecurity**.
+- 🛠️ Building a home lab to practice **Penetration Testing** , **Network Security**, **Network Hardening** and  **Windows Hardening**.
+- ✍️ Documenting my learning journey through various GitHub repositories.
+
+### 🧪 My Technical Toolkit:
+- **Security:** Ethical Hacking, Firewalls, Vulnerability Assessment.
+- **Networking:** TCP/IP, DNS, VPNs, Packet Analysis (Wireshark).
+- **OS:** Linux (Kali, Ubuntu), Windows Server.
+-  **SOC Tools:** Wazuh and Splunk.
+- **Scripting:** Python, Bash.
+
+### 📊 GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=marinusbakara&show_icons=true&theme=tokyonight)
+
+> "The quieter you become, the more you are able to hear." — *Kali Linux*
