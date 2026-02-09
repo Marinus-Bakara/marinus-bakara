@@ -6,7 +6,7 @@ I am a passionate student focused on securing digital landscapes and understandi
 ---
 
 ### 🔭 What I'm working on:
-- 🎓 Pursuing my HND in Computer Science with a focus on **Cybersecurity**.
+- 🎓 Pursuing my in Computer Science with a focus on **Cybersecurity**.
 - 🛠️ Building a home lab to practice **Penetration Testing** , **Network Security**, **Network Hardening** and  **Windows Hardening**.
 - ✍️ Documenting my learning journey through various GitHub repositories.
 ---
