@@ -1,6 +1,6 @@
 # Hi there, I'm Marinus! 👋
 
-### 🛡️ Aspiring Cybersecurity and network security Engineer  | IT Student
+### 🛡️ Aspiring Cybersecurity and network security Engineer  | IT Student | IT support
 I am a passionate student focused on securing digital landscapes and understanding the intricacies of Information Technology. I love deconstructing systems to understand how they work and how to make them more resilient.
 
 ---
