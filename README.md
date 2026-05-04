@@ -1,16 +1,16 @@
 # Hi there, I'm Marinus! 👋
 
-### 🛡️ Aspiring Cybersecurity and network security Engineer  | IT Student | IT support
+### Aspiring Cybersecurity and network security Engineer  | IT Student | IT support
 I am a passionate student focused on securing digital landscapes and understanding the intricacies of Information Technology. I love deconstructing systems to understand how they work and how to make them more resilient.
 
 ---
 
-### 🔭 What I'm working on:
-- 🎓 Pursuing my in Computer Science with a focus on **Cybersecurity**.
-- 🛠️ Building a home lab to practice **Penetration Testing** , **Network Security**, **Network Hardening** and  **Windows Hardening**.
-- ✍️ Documenting my learning journey through various GitHub repositories.
+### What I'm working on:
+- Pursuing my in Computer Science with a focus on **Cybersecurity**.
+- Building a home lab to practice **Penetration Testing** , **Network Security**, **Network Hardening** and  **Windows Hardening**.
+- Documenting my learning journey through various GitHub repositories.
 ---
-### 🧪 My Technical Toolkit:
+### My Technical Toolkit:
 - **Security:** Ethical Hacking, Firewalls, Vulnerability Assessment.
 - **Networking:** TCP/IP, DNS, VPNs, Packet Analysis (Wireshark).
 - **OS:** Linux (Kali, Ubuntu), Windows Server.
@@ -40,7 +40,7 @@ I am a passionate student focused on securing digital landscapes and understandi
 ---
 
 
-### 📊 GitHub Stats:            
+### GitHub Stats:            
 ![Marinus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marinus-Bakara&show_icons=true&theme=tokyonight)
 ---
 > "The quieter you become, the more you are able to hear." — *Kali Linux*
